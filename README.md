@@ -3,7 +3,7 @@
 Welcome to my Data Analyst Portfolio! This repository showcases my data analysis projects, highlighting my skills in Microsoft Excel, SQL, data visualization (Power BI), and business insights.
 
 ## Projects
-1. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](Analysis-of-UK-YouTube-Channels-for-Marketing-Campaign-Optimization/README.md)**  
+1. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**  
    - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates.  
    - Tools: SQL, Power BI, DAX.  
 
