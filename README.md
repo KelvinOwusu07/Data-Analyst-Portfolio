@@ -7,6 +7,9 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
    - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates.  
    - Tools: SQL, Power BI, DAX.  
 
+2. **More Projects Coming Soon!**  
+   - Stay tuned for additional projects showcasing my data analysis skills.
+     
 ## Skills
 - **Data Cleaning**: SQL 
 - **Data Analysis**: SQL  
