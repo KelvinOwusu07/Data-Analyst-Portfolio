@@ -1,7 +1,5 @@
 /*1. Top 10 YouTubers with the Most Subscribers
-Objective: Identify the top 10 channels with the highest number of subscribers.
-
-SQL Query:                                                                                                               */
+Objective: Identify the top 10 channels with the highest number of subscribers. */
 
 SELECT TOP 10
     channel_name,
