@@ -27,6 +27,18 @@ The objective is to identify top-performing UK YouTube channels based on key per
 - **Top 10 YouTubers with the Most Subscribers**
 
 Results:
+| CHANNEL NAME       | SUBSCRIBERS  |
+|--------------------|--------------|
+| NOCOPYRIGHTSOUNDS  | 33,600,000   |
+| DANTDM             | 28,600,000   |
+| DAN RHODES         | 26,500,000   |
+| MISS KATY          | 24,500,000   |
+| MISTER MAX         | 24,400,000   |
+| KSI                | 24,100,000   |
+| JELLY              | 23,500,000   |
+| DUA LIPA           | 23,300,000   |
+| SIDEMEN            | 21,000,000   |
+| ALI-A              | 18,900,000   |
 
 Insights:
 NoCopyrightSounds (music) and DanTDM (gaming) lead with the highest subscriber counts, reflecting the popularity of music and gaming content. Channels like KSI and Sidemen (gaming/entertainment) highlight the staying power of long-term creators with loyal fanbases. Dua Lipa’s presence suggests music artists use YouTube as a key platform for fan engagement.
@@ -35,6 +47,11 @@ NoCopyrightSounds (music) and DanTDM (gaming) lead with the highest subscriber c
 - **Top 3 Channels with the Most Videos Uploaded**
 
 Results:
+| CHANNEL NAME       | VIDEO UPLOADED|
+|--------------------|---------------|
+| 24 NEWS HD         |   165,103     |
+| SKY NEWS           |  46,009       |
+| BBC NEWS           | 40,179        |
 
 Insights:
 News channels like 24 News HD and Sky News upload daily or hourly content to stay current, leading to exceptionally high video counts. While these channels produce massive content volumes, their average views per video may be lower compared to entertainment-focused channels.
@@ -42,6 +59,11 @@ News channels like 24 News HD and Sky News upload daily or hourly content to sta
 - **Top 3 Channels with the Most Views**
 
 Results:
+| CHANNEL NAME     | TOTAL VIEWS     |
+|------------------|-----------------|
+| DANTDM	         | 19,775,950,848  |
+| DAN RHODES	     | 18,558,842,880  |
+| MISTER MAX	     | 15,973,601,280  |
 
 Insights:
 DanTDM and Dan Rhodes (gaming/entertainment) have amassed billions of views, indicating sustained audience interest over years. These channels likely cater to younger audiences, leveraging trends like gaming commentary or family-friendly content.
@@ -49,6 +71,11 @@ DanTDM and Dan Rhodes (gaming/entertainment) have amassed billions of views, ind
 - **Top 3 Channels with the Highest Average Views per Video**
 
 Results:
+| CHANNEL NAME     |AVG VIEWS PER VIDEO |
+|------------------|--------------------|
+| MARK RONSON	     |     322,787,507    |
+| JESSIE J	       |      59,772,603    |
+| DUA LIPA	       |      57,623,427    |
 
 Insights:
 Mark Ronson’s 322 million average views per video suggests viral music videos or collaborations. Music artists like Jessie J and Dua Lipa achieve massive reach per video, even with fewer uploads, highlighting YouTube’s role in music promotion.
@@ -58,6 +85,11 @@ Mark Ronson’s 322 million average views per video suggests viral music videos 
 - **Top 3 Channels with the Highest Views per Subscriber Ratio**
 
 Results:
+| CHANNEL NAME     |VIEWS PER SUBSCRIBER RATIO |
+|------------------|---------------------------|
+| GRM DAILY	       |        1,185.79           |
+|NICKELODEON UK    |	      1,061.04           |
+| DISNEYJUNIORUK	 |        1,031.97           |
 
 Insights:
 GRM Daily (music/hip-hop) has a ratio of 1,185 views per subscriber, meaning non-subscribers heavily consume their content (e.g., via shares or recommendations). Nickelodeon and DisneyJuniorUK’s high ratios suggest their videos are watched repeatedly by the same audience (e.g., children) or shared among families.
@@ -65,6 +97,11 @@ GRM Daily (music/hip-hop) has a ratio of 1,185 views per subscriber, meaning non
 - **Top 3 Channels with the Highest Subscriber Engagement Rate per Video**
 
 Results:
+| CHANNEL NAME     |     ENGAGEMENT RATE       |
+|------------------|---------------------------|
+|MARK RONSON	     |              343,000      |
+|JESSIE J	         |              110,416      |
+| DUA LIPA	       |              104,954      |
 
 Insights:
 Mark Ronson’s 343,000 engagement rate reflects highly shareable or viral content, despite fewer uploads. Artists like Jessie J and Dua Lipa leverage YouTube for music videos that attract repeat views, even with smaller subscriber bases relative to their view counts.
