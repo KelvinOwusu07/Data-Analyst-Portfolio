@@ -1,7 +1,8 @@
 # Analysis of UK YouTube Channels for Marketing Campaign Optimization
 
 ## Overview
-This project analyzes UK YouTube channels to identify top-performing creators based on key metrics like subscribers, views, and engagement rates. The goal is to help marketing teams optimize campaigns by partnering with the most effective YouTubers.
+The marketing team aims to deploy a dashboard that analyzes UK YouTube channel data. The dashboard will highlight top-performing channels based on metrics like average views, subscription base, and engagement rates. This will enable the team to optimize marketing campaigns by partnering with the most effective YouTubers.
+The objective is to identify top-performing UK YouTube channels based on key performance indicators (KPIs) such as subscribers, views, and engagement. This will help the marketing head make data-driven decisions about which YouTubers to collaborate with for future campaigns.
 
 ## Business Questions
 1. Who are the top 10 YouTubers with the most subscribers?
