@@ -108,7 +108,7 @@ Mark Ronson’s 343,000 engagement rate reflects highly shareable or viral conte
 
   
 ## Visualisation
-![Power BI Dashboard](visuals/dashboard_screenshot.png)
+![Power BI Dashboard](visuals/Top_UK_Youtubers_Dashboard.gif)
 
 ## Recommendations 
 **1. Prioritize Channels with High Engagement Rates**
