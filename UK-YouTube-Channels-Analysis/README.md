@@ -37,3 +37,20 @@ This project analyzes UK YouTube channels to identify top-performing creators ba
 
 ## Visualisation
 ![Power BI Dashboard](visuals/dashboard_screenshot.png)
+
+## Recommendations 
+**1. Prioritize Channels with High Engagement Rates**
+
+Leverage creators with proven audience interaction to drive conversions. High engagement rates correlate with better ad recall and conversion potential. For example, a channel with 300,000+ views per video likely has an audience primed to act on recommendations.
+
+**2. Optimize Campaign Costs with Cost-Per-Engagement (CPE)**
+
+Minimize wasted spend by targeting cost-efficient creators. Channels like GRM Daily or DisneyJuniorUK offer lower CPE due to their high views-to-subscriber ratios, maximizing reach per dollar spent.
+
+**3. Estimate Product Conversion Rates**
+
+Link engagement metrics to actual sales/conversions. Channels like KSI (gaming) may have lower conversion rates but higher reach, while Mark Ronson (music) could drive fewer but higher-quality leads.
+
+**4. Calculate Potential ROI**
+
+Ensure campaigns generate profitable returns. Channels with lower engagement rates (e.g., 24 News HD) may require higher budgets to achieve the same ROI as high-engagement creators.
