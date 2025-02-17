@@ -1,0 +1,8 @@
+Avg_Views_Per_Video = DIVIDE(SUM([total_views]), SUM([total_videos]))	
+Calculate average views per video.
+
+Views_Per_Subscriber_Ratio = DIVIDE(SUM([total_views]), SUM([total_subscribers]))	
+Measure views relative to subscriber base.
+
+Engagement_Rate = DIVIDE(SUM([total_subcribers]), SUM([total_videos]))	
+Proxy for engagement using subscribers per video.
