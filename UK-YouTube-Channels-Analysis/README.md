@@ -22,19 +22,53 @@ This project analyzes UK YouTube channels to identify top-performing creators ba
 3. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
 4. **Documentation**: Summarized findings and provided actionable recommendations.
 
-## Results
-- **Top 10 Channels by Subscribers**
+## Findings
+- **Top 10 YouTubers with the Most Subscribers**
 
-- **Top 3 Channels by Views**
-   
-- **Top 3 Channels by Engagement Rate**
+Results:
+
+Insights:
+NoCopyrightSounds (music) and DanTDM (gaming) lead with the highest subscriber counts, reflecting the popularity of music and gaming content. Channels like KSI and Sidemen (gaming/entertainment) highlight the staying power of long-term creators with loyal fanbases. Dua Lipa’s presence suggests music artists use YouTube as a key platform for fan engagement.
+
+
+- **Top 3 Channels with the Most Videos Uploaded**
+
+Results:
+
+Insights:
+News channels like 24 News HD and Sky News upload daily or hourly content to stay current, leading to exceptionally high video counts. While these channels produce massive content volumes, their average views per video may be lower compared to entertainment-focused channels.
+
+- **Top 3 Channels with the Most Views**
+
+Results:
+
+Insights:
+DanTDM and Dan Rhodes (gaming/entertainment) have amassed billions of views, indicating sustained audience interest over years. These channels likely cater to younger audiences, leveraging trends like gaming commentary or family-friendly content.
+
+- **Top 3 Channels with the Highest Average Views per Video**
+
+Results:
+
+Insights:
+Mark Ronson’s 322 million average views per video suggests viral music videos or collaborations. Music artists like Jessie J and Dua Lipa achieve massive reach per video, even with fewer uploads, highlighting YouTube’s role in music promotion.
+
+
+
+- **Top 3 Channels with the Highest Views per Subscriber Ratio**
+
+Results:
+
+Insights:
+GRM Daily (music/hip-hop) has a ratio of 1,185 views per subscriber, meaning non-subscribers heavily consume their content (e.g., via shares or recommendations). Nickelodeon and DisneyJuniorUK’s high ratios suggest their videos are watched repeatedly by the same audience (e.g., children) or shared among families.
+
+- **Top 3 Channels with the Highest Subscriber Engagement Rate per Video**
+
+Results:
+
+Insights:
+Mark Ronson’s 343,000 engagement rate reflects highly shareable or viral content, despite fewer uploads. Artists like Jessie J and Dua Lipa leverage YouTube for music videos that attract repeat views, even with smaller subscriber bases relative to their view counts.
+
   
-
-## How to Use This Repository
-1. Clone the repository: `git clone https://github.com/your-username/Data-Analyst-Portfolio.git`
-2. Navigate to the project folder: `cd 01-UK-YouTube-Channels-Analysis`
-3. Explore the SQL scripts, DAX formulas, and results.
-
 ## Visualisation
 ![Power BI Dashboard](visuals/dashboard_screenshot.png)
 
