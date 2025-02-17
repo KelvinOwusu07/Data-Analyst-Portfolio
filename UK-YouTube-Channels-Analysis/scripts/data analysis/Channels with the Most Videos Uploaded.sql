@@ -1,8 +1,6 @@
 /*2. Top 3 Channels with the Most Videos Uploaded
-Objective: Identify the top 3 channels with the highest number of videos uploaded.
-
-SQL Query:                                                                                                                   */
-
+Objective: Identify the top 3 channels with the highest number of videos uploaded.*/
+ 
 SELECT TOP 3
     channel_name,
     total_videos
