@@ -23,6 +23,9 @@ The objective is to identify top-performing UK YouTube channels based on key per
 3. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
 4. **Documentation**: Summarized findings and provided actionable recommendations.
 
+### Scripts
+SQL Queries and DAX Formulas used in the entire anaylsis. ![click here...](scripts/)
+
 ## Findings
 - **Top 10 YouTubers with the Most Subscribers**
 
