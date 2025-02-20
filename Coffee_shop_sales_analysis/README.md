@@ -11,7 +11,7 @@ The objective is to analyze the relationship between loyalty card membership, ge
 4.	Do loyalty cardholders prefer specific product attributes (e.g., premium roasts or larger sizes)?
 
 ## Tools and Technologies
-- **Data Cleaning and Analysis**: Microsoft excel![click here for more details...](Coffee_shop_sales_analysis/scripts/)
+- **Data Cleaning and Analysis**: Microsoft excel
 - **Visualization**: Power BI
 - **Documentation**: Microsoft Word
 
