@@ -1,4 +1,4 @@
-# Customer Loyalty & Geographic Sales Analysis
+# Customer Loyalty Membership & Geographic Sales Analysis
 
 ## Overview
 The business stakeholder wants to understand how customer loyalty (via the Loyalty Card program) correlates with purchasing behavior and sales performance across different geographic regions. Additionally, he wants insight into which product combinations (coffee type, roast type, and size) are driving profitability in key markets.
