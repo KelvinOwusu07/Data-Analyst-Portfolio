@@ -7,7 +7,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
    - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates.  
    - Tools: SQL, Power BI, DAX.  
 
-2. **[Customer Loyalty & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
+2. **[Customer Loyalty Membership & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
    - Analyzed the relationship between loyalty card membership, geographic sales trends, and product profitability to identify opportunities for increasing customer retention  
    - Tools: Microsoft Excel, Power BI.
 
