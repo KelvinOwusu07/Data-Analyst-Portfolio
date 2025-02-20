@@ -12,116 +12,100 @@ The objective is to analyze the relationship between loyalty card membership, ge
 
 ## Tools and Technologies
 - **Data Cleaning and Analysis**: Microsoft excel![click here for more details...](Coffee_shop_sales_analysis/scripts/)
-- **Visualization**: Power BI (DAX formulas)
+- **Visualization**: Power BI
 - **Documentation**: Microsoft Word
 
 ## Key Steps
-1. **Data Cleaning**: Removed duplicates and standardized channel names using SQL.
-2. **Data Analysis**: Used SQL queries to answer business questions and calculate KPIs.
+1. **Data Preparation**: Sheets were combined using Customer_ID and Product_ID as keys.![click here for more details...](Coffee_shop_sales_analysis/scripts/Data_preparation/)
+1. **Data Cleaning**: Format Standardization and checked for Duplicates.![click here for more details...](Coffee_shop_sales_analysis/scripts/Data_cleaning/)
+2. **Data Analysis**: Created Pivot Tables.![click here for more details...](Coffee_shop_sales_analysis/scripts/Data_analysis)
 3. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
 4. **Documentation**: Summarized findings and provided actionable recommendations.
 
 ## Findings
-- **Top 10 YouTubers with the Most Subscribers**
+- **Influence of Loyalty Card Membership on Sales Volume, Average Order Value, and Product Preferences**
 
-Results:
-| CHANNEL NAME       | SUBSCRIBERS  |
-|--------------------|--------------|
-| NOCOPYRIGHTSOUNDS  | 33,600,000   |
-| DANTDM             | 28,600,000   |
-| DAN RHODES         | 26,500,000   |
-| MISS KATY          | 24,500,000   |
-| MISTER MAX         | 24,400,000   |
-| KSI                | 24,100,000   |
-| JELLY              | 23,500,000   |
-| DUA LIPA           | 23,300,000   |
-| SIDEMEN            | 21,000,000   |
-| ALI-A              | 18,900,000   |
-
-Insights:
-NoCopyrightSounds (music) and DanTDM (gaming) lead with the highest subscriber counts, reflecting the popularity of music and gaming content. Channels like KSI and Sidemen (gaming/entertainment) highlight the staying power of long-term creators with loyal fanbases. Dua Lipa’s presence suggests music artists use YouTube as a key platform for fan engagement.
-
-
-- **Top 3 Channels with the Most Videos Uploaded**
-
-Results:
-| CHANNEL NAME       | VIDEO UPLOADED|
-|--------------------|---------------|
-| 24 NEWS HD         |   165,103     |
-| SKY NEWS           |  46,009       |
-| BBC NEWS           | 40,179        |
-
-Insights:
-News channels like 24 News HD and Sky News upload daily or hourly content to stay current, leading to exceptionally high video counts. While these channels produce massive content volumes, their average views per video may be lower compared to entertainment-focused channels.
-
-- **Top 3 Channels with the Most Views**
-
-Results:
-| CHANNEL NAME     | TOTAL VIEWS     |
-|------------------|-----------------|
-| DANTDM	         | 19,775,950,848  |
-| DAN RHODES	     | 18,558,842,880  |
-| MISTER MAX	     | 15,973,601,280  |
-
-Insights:
-DanTDM and Dan Rhodes (gaming/entertainment) have amassed billions of views, indicating sustained audience interest over years. These channels likely cater to younger audiences, leveraging trends like gaming commentary or family-friendly content.
-
-- **Top 3 Channels with the Highest Average Views per Video**
-
-Results:
-| CHANNEL NAME     |AVG VIEWS PER VIDEO |
-|------------------|--------------------|
-| MARK RONSON	     |     322,787,507    |
-| JESSIE J	       |      59,772,603    |
-| DUA LIPA	       |      57,623,427    |
-
-Insights:
-Mark Ronson’s 322 million average views per video suggests viral music videos or collaborations. Music artists like Jessie J and Dua Lipa achieve massive reach per video, even with fewer uploads, highlighting YouTube’s role in music promotion.
+**Results:**
 
 
 
-- **Top 3 Channels with the Highest Views per Subscriber Ratio**
 
-Results:
-| CHANNEL NAME     |VIEWS PER SUBSCRIBER RATIO |
-|------------------|---------------------------|
-| GRM DAILY	       |        1,185.79           |
-|NICKELODEON UK    |	      1,061.04           |
-| DISNEYJUNIORUK	 |        1,031.97           |
+**Insights:**
 
-Insights:
-GRM Daily (music/hip-hop) has a ratio of 1,185 views per subscriber, meaning non-subscribers heavily consume their content (e.g., via shares or recommendations). Nickelodeon and DisneyJuniorUK’s high ratios suggest their videos are watched repeatedly by the same audience (e.g., children) or shared among families.
+Loyalty Cardholders:
+They drive slightly fewer sales but have a lower average order value (AOV). Prefer Excelsa and Robusta coffee types slightly more than non-cardholders.
 
-- **Top 3 Channels with the Highest Subscriber Engagement Rate per Video**
+Non-Cardholders:
+They drive more sales and have a higher average order value (AOV). Prefer Arabica and Liberica coffee types slightly more than loyalty cardholders.
 
-Results:
-| CHANNEL NAME     |     ENGAGEMENT RATE       |
-|------------------|---------------------------|
-|MARK RONSON	     |              343,000      |
-|JESSIE J	         |              110,416      |
-| DUA LIPA	       |              104,954      |
+Product Preferences:
+Excelsa and Liberica have the highest AOVs across both groups, indicating they are premium products. Robusta has the lowest AOV, suggesting it’s a more affordable option
 
-Insights:
-Mark Ronson’s 343,000 engagement rate reflects highly shareable or viral content, despite fewer uploads. Artists like Jessie J and Dua Lipa leverage YouTube for music videos that attract repeat views, even with smaller subscriber bases relative to their view counts.
 
+- **Geographic Regions Generating the Highest Revenue and Profit**
+
+**Results:**
+
+
+
+**Insights:**
+
+United States generates the highest revenue by far, contributing 79% of total revenue. Maintains a profit margin of ~10%, consistent with other regions.
+
+Ireland is the second-highest revenue generator, contributing 15% of total revenue and has a profit margin of ~10%, similar to other regions.
+
+United Kingdom generates the least revenue, contributing only 6% of total revenue and has a slightly higher profit margin (10.2%), but its overall revenue and profit are much lower compared to the other regions.
+
+
+- **Most Profitable Product Combinations by Region**
+
+**Results:**
+
+
+
+
+**Insights:**
+
+Ireland:
+Liberica (Dark, 2.5kg) is the top performer, followed by Arabica (Medium, 2.5kg). Larger sizes (2.5kg) tend to drive higher profitability.
+
+United Kingdom:
+Excelsa (Dark, 2.5kg) and Liberica (Light, 2.5kg) are the top performers. The UK market shows a preference for larger sizes (2.5kg) and premium roasts (Dark and Light).
+
+United States:
+Liberica (Dark, 2.5kg) and Arabica (Medium, 2.5kg) are the top performers. The US market shows a strong preference for larger sizes (2.5kg) and premium roasts (Dark and Medium).
+
+
+- **Specific Product Attributes Prefered By Loyalty Cardholders**
+
+**Results:**
+
+
+
+
+**Insights:**
+
+Loyalty Cardholders:
+Prefer Excelsa and Arabica coffee types. Favor Dark roasts over Light and Medium. Purchase smaller sizes (0.2kg) more frequently.
+Non-Cardholders:
+Prefer Arabica and Liberica coffee types. Favor Light and Medium roasts over Dark. Purchase larger sizes (0.5kg, 1kg, and 2.5kg) more frequently.
   
 ## Visualisation
 ![Power BI Dashboard](visuals/Top_UK_Youtubers_Dashboard.gif)
 
 ## Recommendations 
-**1. Prioritize Channels with High Engagement Rates**
+**1. Loyalty Cardholders**
 
-Leverage creators with proven audience interaction to drive conversions. High engagement rates correlate with better ad recall and conversion potential. For example, a channel with 300,000+ views per video likely has an audience primed to act on recommendations.
+Offer discounts or promotions on premium products (e.g., Excelsa, Liberica) and larger sizes to increase AOV. Highlight Dark roast options in marketing campaigns.
 
-**2. Optimize Campaign Costs with Cost-Per-Engagement (CPE)**
+**2. Non-Cardholders**
 
-Minimize wasted spend by targeting cost-efficient creators. Channels like GRM Daily or DisneyJuniorUK offer lower CPE due to their high views-to-subscriber ratios, maximizing reach per dollar spent.
+Launch targeted campaigns to encourage loyalty program sign-ups, emphasizing benefits like discounts on larger sizes and premium roasts. Focus on promoting Arabica and Liberica coffee types.
 
-**3. Estimate Product Conversion Rates**
+**3. Geographic Strategies**
 
-Link engagement metrics to actual sales/conversions. Channels like KSI (gaming) may have lower conversion rates but higher reach, while Mark Ronson (music) could drive fewer but higher-quality leads.
+Invest in marketing and product offerings in the United States, given its dominant revenue contribution. Explore opportunities to grow revenue in the United Kingdom, potentially by introducing new product combinations or promotions.
 
-**4. Calculate Potential ROI**
+**4.Product Optimization**
 
-Ensure campaigns generate profitable returns. Channels with lower engagement rates (e.g., 24 News HD) may require higher budgets to achieve the same ROI as high-engagement creators.
-
+Focus on promoting larger sizes (2.5kg) and premium roasts across all regions. Consider introducing new product bundles or discounts to drive sales of less popular combinations (e.g., Robusta).
