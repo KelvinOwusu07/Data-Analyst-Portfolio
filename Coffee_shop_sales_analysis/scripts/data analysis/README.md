@@ -1,7 +1,7 @@
 ### 1. How Does Loyalty Card Membership Influence Sales Volume, Average Order Value, and Product Preferences?
+Selected the cleaned dataset and inserted a Pivot Table (Insert > Pivot Table).
 
 **1.	Create a Pivot Table:**
-- Selected the cleaned dataset and inserted a Pivot Table (Insert > Pivot Table).
 - Placed **Loyalty_Card** in the **Rows** area.
 - Added **Sales** to the **Values** area twice:
 - Set to Sum to calculate **total sales volume**.
