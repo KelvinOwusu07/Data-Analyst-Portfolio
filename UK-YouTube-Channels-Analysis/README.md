@@ -18,7 +18,7 @@ The objective is to identify top-performing UK YouTube channels based on key per
 - **Documentation**: Microsoft Word
 
 ## Key Steps
-1. **Data Cleaning**: Removed duplicates and standardized channel names using SQL. ![click here for more details...](scripts/data cleaning)
+1. **Data Cleaning**: Removed duplicates and standardized channel names using SQL. ![click here for more details...](scripts/)
 2. **Data Analysis**: Used SQL queries to answer business questions and calculate KPIs.![click here for more details...](scripts/)
 3. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
 4. **Documentation**: Summarized findings and provided actionable recommendations.
