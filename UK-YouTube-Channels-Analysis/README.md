@@ -13,7 +13,7 @@ The objective is to identify top-performing UK YouTube channels based on key per
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
 ## Tools and Technologies
-- **Data Cleaning and Analysis**: SQL Server
+- **Data Cleaning and Analysis**: SQL Server ![click here for more details...](scripts/)
 - **Visualization**: Power BI (DAX formulas)
 - **Documentation**: Microsoft Word
 
@@ -22,9 +22,6 @@ The objective is to identify top-performing UK YouTube channels based on key per
 2. **Data Analysis**: Used SQL queries to answer business questions and calculate KPIs.
 3. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
 4. **Documentation**: Summarized findings and provided actionable recommendations.
-
-### Scripts
-SQL Queries and DAX Formulas used in the entire anaylsis. ![click here...](scripts/)
 
 ## Findings
 - **Top 10 YouTubers with the Most Subscribers**
