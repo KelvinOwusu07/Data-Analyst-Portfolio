@@ -16,9 +16,9 @@ The objective is to analyze the relationship between loyalty card membership, ge
 - **Documentation**: Microsoft Word
 
 ## Key Steps
-1. **Data Preparation**: Sheets were combined using Customer_ID and Product_ID as keys.![click here for more details...](Coffee_shop_sales_analysis/scripts/data_preparation/README.md)
-1. **Data Cleaning**: Format Standardization and checked for Duplicates.![click here for more details...](Coffee_shop_sales_analysis/scripts/data_cleaning/README.md)
-2. **Data Analysis**: Created Pivot Tables.![click here for more details...](Coffee_shop_sales_analysis/scripts/data_analysis/README.md)
+1. **Data Preparation**: Sheets were combined using Customer_ID and Product_ID as keys.![click here for more details...](scripts/data_preparation/README.md)
+1. **Data Cleaning**: Format Standardization and checked for Duplicates.![click here for more details...](scripts/data_cleaning/README.md)
+2. **Data Analysis**: Created Pivot Tables.![click here for more details...](scripts/data_analysis/README.md)
 3. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
 4. **Documentation**: Summarized findings and provided actionable recommendations.
 
