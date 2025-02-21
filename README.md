@@ -14,12 +14,16 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
  3. **More projects coming soon** 
     - Stay tuned for additional projects showcasing my data analysis skills.
      
-## Skills
-- **Data Cleaning**: SQL, Microsoft Excel 
-- **Data Analysis**: SQL, Microsoft Excel  
-- **Data Visualization**: Power BI 
-- **Documentation**: Microsoft Word  
 
+## Skills
+- **SQL Server**: Data Extraction, Joins, Filtering 
+- **Microsoft Excel**: Pivot Tables, VLOOKUP, Data Cleaning
+- **Power BI**: Data Visualization, DAX, Dashboard Creation
+- **Data Cleaning & Transformation**
+- **Problem-Solving & Critical Thinking**
+- **Data Interpretation & Trend Analysis**
+- **data-driven decision making**
+  
 ## Contact
 - **Email**: kelsk1000@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/kelvin-owusu-ansah-0a6b2527a  
