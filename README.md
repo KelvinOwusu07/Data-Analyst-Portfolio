@@ -1,6 +1,6 @@
 # Data Analyst Portfolio
 
-Welcome to my Data Analyst Portfolio! This repository showcases my data analysis projects, highlighting my skills in Microsoft Excel, SQL, data visualization (Power BI), and business insights.
+Hi, I'm Kelvin, a data analyst with a passion for turning raw data into meaningful insights. My journey into data analytics started with a background in SPSS during my final year project. Over time, I've developed strong skills in SQL, Microsoft Excel, Power BI, and data storytelling to help make data-driven decisions. Through my portfolio, I showcase projects that highlight my ability to clean, analyze, and visualize data effectively. I'm always eager to learn, solve complex problems, .
 
 ## Projects
 1. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**  
@@ -20,6 +20,7 @@ Welcome to my Data Analyst Portfolio! This repository showcases my data analysis
 - **Microsoft Excel**: Pivot Tables, VLOOKUP, Data Cleaning
 - **Power BI**: Data Visualization, DAX, Dashboard Creation
 - **Data Cleaning & Transformation**
+- **Data storytelling**
 - **Problem-Solving & Critical Thinking**
 - **Data Interpretation & Trend Analysis**
 - **data-driven decision making**
