@@ -12,7 +12,7 @@ The objective is to analyze the relationship between loyalty card membership, ge
 
 ## Tools and Technologies
 - **Data Cleaning and Analysis**: Microsoft excel
-- **Visualization**: Power BI
+
 - **Documentation**: Microsoft Word
 
 ## Key Steps
