@@ -19,8 +19,8 @@ The objective is to analyze the relationship between loyalty card membership, ge
 1. **Data Preparation**: Sheets were combined using Customer_ID and Product_ID as keys.![click here for more details...](scripts/data_preparation/README.md)
 1. **Data Cleaning**: Format Standardization and checked for Duplicates.![click here for more details...](scripts/data_cleaning/README.md)
 2. **Data Analysis**: Created Pivot Tables.![click here for more details...](scripts/data_analysis/README.md)
-3. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
-4. **Documentation**: Summarized findings and provided actionable recommendations.
+
+3. **Documentation**: Summarized findings and provided actionable recommendations.
 
 ## Findings
 - **Influence of Loyalty Card Membership on Sales Volume, Average Order Value, and Product Preferences**
@@ -90,8 +90,6 @@ Prefer Excelsa and Arabica coffee types. Favor Dark roasts over Light and Medium
 Non-Cardholders:
 Prefer Arabica and Liberica coffee types. Favor Light and Medium roasts over Dark. Purchase larger sizes (0.5kg, 1kg, and 2.5kg) more frequently.
   
-## Visualisation
-![Power BI Dashboard](visuals/Top_UK_Youtubers_Dashboard.gif)
 
 ## Recommendations 
 **1. Loyalty Cardholders**
