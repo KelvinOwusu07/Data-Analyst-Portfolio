@@ -9,7 +9,7 @@ Hi, I'm Kelvin, a data analyst with a passion for turning raw data into meaningf
 
 2. **[Customer Loyalty Membership & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
    - Analyzed the relationship between loyalty card membership, geographic sales trends, and product profitability to identify opportunities for increasing customer retention  
-   - Tools: Microsoft Excel, Power BI.
+   - Tools: Microsoft Excel
 
  3. **More projects coming soon** 
     - Stay tuned for additional projects showcasing my data analysis skills.
