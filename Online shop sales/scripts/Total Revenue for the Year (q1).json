@@ -1,0 +1,33 @@
+{
+    "version": 2,
+    "inquiries": [
+        {
+            "id": "f5UZ7iHL6sIeQyOF78n5X",
+            "query": "-- 1. Total Revenue for the Year (rounded to 2 decimal places)\nSELECT \n    ROUND(SUM(\"Total Revenue\"), 2) AS Total_Revenue\nFROM \n    Online_Sales_Data;\n\n",
+            "viewType": "chart",
+            "viewOptions": {
+                "data": [],
+                "layout": {
+                    "xaxis": {
+                        "range": [
+                            -1,
+                            6
+                        ],
+                        "autorange": true
+                    },
+                    "yaxis": {
+                        "range": [
+                            -1,
+                            4
+                        ],
+                        "autorange": true
+                    },
+                    "autosize": true
+                },
+                "frames": []
+            },
+            "name": "Total Revenue for the Year (q1)",
+            "createdAt": "2025-03-19T15:52:33.985Z"
+        }
+    ]
+}
