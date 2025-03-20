@@ -7,5 +7,4 @@ FROM
 GROUP BY 
     "Product Category"
 ORDER BY 
-    Category_Revenue DESC
-LIMIT 1;
+    Category_Revenue DESC;
