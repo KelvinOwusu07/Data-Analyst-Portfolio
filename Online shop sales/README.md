@@ -20,7 +20,7 @@
 
 
 ## Findings
-- **1.	What was the company’s Overall Performance in terms of revenue?**
+- **Company’s Overall Performance in terms of revenue**
 
 Results:
 
@@ -28,20 +28,20 @@ Results:
 Insights:
 
 
-- **2.	How were the sales Trend Over Time?**
+- **Sales Trend Over Time**
 
 Results:
 
 Insights:
 
-- **3.	Which region had the highest and lowest sales and Are there any regional differences in product preferences?**
+- **Region with the highest and lowest sales and Are there any regional differences in product preferences**
 
 Results:
 
 
 Insights:
 
-- **4.	What are the top 5 best-selling products by units sold and revenue?**
+- **Top 5 best-selling products by units sold and revenue**
 
 Results:
 
