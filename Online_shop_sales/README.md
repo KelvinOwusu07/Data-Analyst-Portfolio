@@ -21,17 +21,6 @@
 
 ## Findings
 - **Company’s Overall Performance in terms of revenue**
-
-Results:
-
-
-
-[Power BI Dashboard](Online_shop_sales/visuals/results.png)
-
-
-
-
-
 Insights:
 
 
@@ -44,6 +33,7 @@ Insights:
 - **Region with the highest and lowest sales and Are there any regional differences in product preferences**
 
 Results:
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/85d52501f5d1e39f2d191150eab21d0cc888c4e2/Online_shop_sales/visuals/results.png)
 
 
 Insights:
