@@ -24,7 +24,12 @@
 
 Results:
 
-![Power BI Dashboard](Online_shop_sales/visuals/results.png)
+
+
+[Power BI Dashboard](Online_shop_sales/visuals/results.png)
+
+
+
 
 
 Insights:
