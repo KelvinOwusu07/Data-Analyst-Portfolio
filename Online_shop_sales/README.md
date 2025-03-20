@@ -21,6 +21,7 @@
 
 ## Findings
 - **Company’s Overall Performance in terms of revenue**
+
 Insights:
 
 
