@@ -1,4 +1,4 @@
-# Analysis of UK YouTube Channels for Marketing Campaign Optimization
+# NEW TITLE
 
 ## Overview
 
@@ -23,6 +23,7 @@
 - **Company’s Overall Performance in terms of revenue**
 
 Results:
+![Power BI Dashboard](visuals/Top_UK_Youtubers_Dashboard.gif)
 
 
 Insights:
