@@ -55,8 +55,7 @@ Insights:
 - **Top 5 best-selling products by units sold and revenue**
 
 Results:
-
-
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/71c8f34f6eadd11f43dcd23f9880eca43e358f7d/Online_shop_sales/visuals/unit%20revenue.png)
 Insights:
 
 
