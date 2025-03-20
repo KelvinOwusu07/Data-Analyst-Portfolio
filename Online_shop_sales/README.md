@@ -15,7 +15,7 @@
 
 ## Key Steps
 1. **Initial exploration**: Used Microsoft excel to understand the data and identify necessary steps to proceed 
-1. **Data Analysis**: Used SQL queries to answer business questions and DAX formulas to calculate KPIs.![click here for more details...](scripts/Data_anaylsis)
+1. **Data Analysis**: Used SQL queries to answer business questions and DAX formulas to calculate KPIs.![click here for more details...](scripts/)
 2. **Visualization**: Created an interactive Power BI dashboard to showcase insights.
 
 
