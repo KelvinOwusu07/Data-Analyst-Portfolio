@@ -23,7 +23,8 @@
 - **Company’s Overall Performance in terms of revenue**
 
 Results:
-![Power BI Dashboard](visuals/Top_UK_Youtubers_Dashboard.gif)
+
+![Power BI Dashboard](Online_shop_sales/visuals/results.png)
 
 
 Insights:
