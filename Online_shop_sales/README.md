@@ -34,7 +34,8 @@ Insights:
 
 Results:
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/85d52501f5d1e39f2d191150eab21d0cc888c4e2/Online_shop_sales/visuals/results.png)
-
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/c3f1d8a769df4af93cde41b840505ff9d8890a55/Online_shop_sales/visuals/pres.png
+)
 
 Insights:
 
