@@ -32,10 +32,21 @@ Results:
 
 Insights:
 
-- **Region with the highest and lowest sales and Are there any regional differences in product preferences**
+**Region with the highest and lowest sales and Are there any regional differences in product preferences**
 
 Results:
-![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/85d52501f5d1e39f2d191150eab21d0cc888c4e2/Online_shop_sales/visuals/results.png)
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/096c914f09f502174171f721b96ad2669c928d22/Online_shop_sales/visuals/Untitled%20-%20Power%20BI%20Desktop%2020_03_2025%206_21_47%20pm.png)
+
+
+
+
+
+
+- Regional differences in product preferences
+
+
+
+
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/c3f1d8a769df4af93cde41b840505ff9d8890a55/Online_shop_sales/visuals/pres.png
 )
 
