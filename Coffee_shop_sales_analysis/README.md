@@ -61,6 +61,9 @@ United Kingdom generates the least revenue, contributing only 6% of total revenu
 
 **Results:**
 
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/281d2e3ca2275ca0d08e0baf45ee63fe8122e6ab/Coffee_shop_sales_analysis/visuals/Customer%20Loyalty%20%26%20Geographic%20Sales%20Analysis%20-%20Word%2007_04_2025%203_23_19%20pm.png)
+
+
 
 
 
