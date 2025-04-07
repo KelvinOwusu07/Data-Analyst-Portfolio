@@ -10,6 +10,10 @@ The objective is to analyze the relationship between loyalty card membership, ge
 3.	What are the most profitable product combinations by region?
 4.	Do loyalty cardholders prefer specific product attributes (e.g., premium roasts or larger sizes)?
 
+## Data Description
+
+
+
 ## Tools and Technologies
 - **Data Cleaning and Analysis**: Microsoft excel
 
