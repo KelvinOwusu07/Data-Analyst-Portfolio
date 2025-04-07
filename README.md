@@ -12,7 +12,7 @@ Hi, I'm Kelvin, a data analyst with a passion for turning raw data into meaningf
 
 
 2. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**  
-   - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates.  
+   - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates to help the marketing head make data-driven decisions about which YouTubers to collaborate with for future campaigns.
    - Tools: SQL, Power BI, DAX.  
 
 
