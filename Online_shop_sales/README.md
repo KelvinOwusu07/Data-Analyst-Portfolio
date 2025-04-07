@@ -22,11 +22,16 @@
 ## Findings
 - **Company’s Overall Performance in terms of revenue**
 
+Results:
+
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/da5bac21eb8a43a680eaf25205aa45934e63a65e/Online_shop_sales/visuals/online%20sales%2007_04_2025%205_09_57%20pm.png)
+
+
 Insights:
 
 The company's aggregate revenue across all products, regions, and time periods is $80,567.85.
 
-Electronics (43.42%) is your clear market leader, generating nearly half of all revenue. Home Appliances (23.14%) and Sports (17.78%) are strong secondary categories.Clothing (10.09%), Beauty (3.25%), and Books (2.31%) are underperforming segments.
+Electronics (43.42%) is the clear market leader, generating nearly half of all revenue. Home Appliances (23.14%) and Sports (17.78%) are strong secondary categories.Clothing (10.09%), Beauty (3.25%), and Books (2.31%) are underperforming segments.
 
 Top 3 categories (Electronics, Home Appliances, Sports) account for 84.34% of total revenue. Bottom 3 categories contribute just 15.66%.
 
