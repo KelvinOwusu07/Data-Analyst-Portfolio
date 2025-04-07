@@ -64,9 +64,6 @@ United Kingdom generates the least revenue, contributing only 6% of total revenu
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/281d2e3ca2275ca0d08e0baf45ee63fe8122e6ab/Coffee_shop_sales_analysis/visuals/Customer%20Loyalty%20%26%20Geographic%20Sales%20Analysis%20-%20Word%2007_04_2025%203_23_19%20pm.png)
 
 
-
-
-
 **Insights:**
 
 Ireland:
@@ -83,13 +80,14 @@ Liberica (Dark, 2.5kg) and Arabica (Medium, 2.5kg) are the top performers. The U
 
 **Results:**
 
-
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/f4f533beea2b7447e7874e2d4eb3d548bf10d1fb/Coffee_shop_sales_analysis/visuals/Customer%20Loyalty%20%26%20Geographic%20Sales%20Analysis%20-%20Word%2007_04_2025%203_30_23%20pm.png)
 
 
 **Insights:**
 
 Loyalty Cardholders:
 Prefer Excelsa and Arabica coffee types. Favor Dark roasts over Light and Medium. Purchase smaller sizes (0.2kg) more frequently.
+
 Non-Cardholders:
 Prefer Arabica and Liberica coffee types. Favor Light and Medium roasts over Dark. Purchase larger sizes (0.5kg, 1kg, and 2.5kg) more frequently.
   
