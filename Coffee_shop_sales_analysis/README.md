@@ -91,6 +91,10 @@ Prefer Excelsa and Arabica coffee types. Favor Dark roasts over Light and Medium
 Non-Cardholders:
 Prefer Arabica and Liberica coffee types. Favor Light and Medium roasts over Dark. Purchase larger sizes (0.5kg, 1kg, and 2.5kg) more frequently.
   
+## Visualisation
+![Power BI Dashboard](visuals/Top_UK_Youtubers_Dashboard.gifkelvin)
+
+[CLICK HERE TO INTERACT WITH THE DASHBOARD](https://app.fabric.microsoft.com/view?r=eyJrIjoiMmI2ZWMxODMtMGZhYi00MWU1LWIxZDctNGVlNDYwNmZkMTk0IiwidCI6ImUwMmQxZTM1LWZmYjYtNGY0My1hZWVhLWFjNzlhZTBmM2M1ZSJ9kelvin)
 
 ## Recommendations 
 **1. Loyalty Cardholders**
