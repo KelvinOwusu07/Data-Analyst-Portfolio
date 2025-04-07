@@ -12,7 +12,34 @@ The objective is to analyze the relationship between loyalty card membership, ge
 
 ## Data Description
 
+# Data Dictionary
 
+## Orders Table
+| Column | Data Type | Description | Notes |
+|--------|-----------|-------------|-------|
+| `Order_ID` | String | Unique identifier for each order | Primary key |
+| `Order_Date` | Date | Date when order was placed | Format: YYYY-MM-DD |
+| `Customer_ID` | String | Unique identifier for customer | Foreign key to Customers table |
+| `Product_ID` | String | Unique identifier for product | Foreign key to Products table |
+| `Quantity` | Integer | Number of units ordered | |
+| `Country` | String | Customer's country | Derived from Customers table |
+| `Sales` | Decimal | Total order value (Quantity × Unit_Price) | Calculated field |
+
+## Customers Table
+| Column | Data Type | Description | Notes |
+|--------|-----------|-------------|-------|
+| `Customer_ID` | String | Unique identifier for customer | Primary key |
+| `Loyalty_Card` | Boolean | Whether customer has loyalty card | Values: TRUE/FALSE |
+
+## Products Table
+| Column | Data Type | Description | Notes |
+|--------|-----------|-------------|-------|
+| `Product_ID` | String | Unique identifier for product | Primary key |
+| `Coffee_Type` | String | Type of coffee bean | Values: Arabica, Robusta, Liberica, Excelsa |
+| `Roast_Type` | String | Coffee roast level | Values: Light, Medium, Dark |
+| `Size` | String | Package size | Values: 0.2kg, 0.5kg, 1kg, 2.5kg |
+| `Unit_Price` | Decimal | Price per unit in local currency | |
+| `Profit` | Decimal | Profit per unit in local currency | |
 
 ## Tools and Technologies
 - **Data Cleaning and Analysis**: Microsoft excel
