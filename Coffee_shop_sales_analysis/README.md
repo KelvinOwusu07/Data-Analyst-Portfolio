@@ -27,7 +27,7 @@ The objective is to analyze the relationship between loyalty card membership, ge
 
 **Results:**
 
-![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/3178c6b51f59b24ab7e44e58f1fe108aa7dd6a9e/Online_shop_sales/visuals/Untitled%20-%20Power%20BI%20Desktop%2020_03_2025%205_50_33%20pm.png)
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/ec734c51ee4a3a6796fb6d00607af560f1cf35a1/Coffee_shop_sales_analysis/visuals/Customer%20Loyalty%20%26%20Geographic%20Sales%20Analysis%20-%20Word%2007_04_2025%202_59_04%20pm.png)
 
 
 **Insights:**
