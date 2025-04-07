@@ -46,7 +46,7 @@ Excelsa and Liberica have the highest AOVs across both groups, indicating they a
 
 **Results:**
 
-
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/6f0705d5b2a223a0a9652ec6140e1fef2ae7b057/Coffee_shop_sales_analysis/visuals/Customer%20Loyalty%20%26%20Geographic%20Sales%20Analysis%20-%20Word%2007_04_2025%202_45_47%20pm.png)
 
 **Insights:**
 
