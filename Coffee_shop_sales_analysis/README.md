@@ -11,10 +11,11 @@ The objective is to analyze the relationship between loyalty card membership, ge
 4.	Do loyalty cardholders prefer specific product attributes (e.g., premium roasts or larger sizes)?
 
 ## Data Description
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/cabb09f3246902d7445279d3e30c767440d9391b/Coffee_shop_sales_analysis/visuals/Untitled%20-%20Power%20BI%20Desktop%2007_04_2025%204_03_22%20pm.png)
 
 # Data Dictionary
 
-## Orders Table
+**Orders Table**
 | Column | Data Type | Description | Notes |
 |--------|-----------|-------------|-------|
 | `Order_ID` | String | Unique identifier for each order | Primary key |
@@ -25,13 +26,13 @@ The objective is to analyze the relationship between loyalty card membership, ge
 | `Country` | String | Customer's country | Derived from Customers table |
 | `Sales` | Decimal | Total order value (Quantity × Unit_Price) | Calculated field |
 
-## Customers Table
+**Customers Table**
 | Column | Data Type | Description | Notes |
 |--------|-----------|-------------|-------|
 | `Customer_ID` | String | Unique identifier for customer | Primary key |
 | `Loyalty_Card` | Boolean | Whether customer has loyalty card | Values: TRUE/FALSE |
 
-## Products Table
+**Products Table**
 | Column | Data Type | Description | Notes |
 |--------|-----------|-------------|-------|
 | `Product_ID` | String | Unique identifier for product | Primary key |
