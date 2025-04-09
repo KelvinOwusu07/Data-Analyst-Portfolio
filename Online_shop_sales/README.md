@@ -42,6 +42,8 @@ Results:
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/3178c6b51f59b24ab7e44e58f1fe108aa7dd6a9e/Online_shop_sales/visuals/Untitled%20-%20Power%20BI%20Desktop%2020_03_2025%205_50_33%20pm.png)
 
 Insights:
+Revenue Declined from February to July 2024. After a strong January ($14,548.32), revenue dropped sharply in February (-25.74%) and continued declining until July.
+The steepest drop was in May (-32.09%), followed by June (-12.67%) and July (-7.96%).Slight Recovery in August.Revenue increased by 7.08% , breaking the 6-month decline.
 
 **Region with the highest and lowest sales and Are there any regional differences in product preferences**
 
