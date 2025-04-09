@@ -45,6 +45,10 @@ Insights:
 Revenue Declined from February to July 2024. After a strong January ($14,548.32), revenue dropped sharply in February (-25.74%) and continued declining until July.
 The steepest drop was in May (-32.09%), followed by June (-12.67%) and July (-7.96%).Slight Recovery in August.Revenue increased by 7.08% , breaking the 6-month decline.
 
+Beauty Products suffered the steepest decline, plummeting from 699.95 January to just 170.70 in August—a 75.6% decrease. 
+Despite being the highest-revenue category in January (7,999.90),Electronics saw a 61.7%  drop (3,066.96) by August. Home Appliances saw a 23.1% drop, possibly due to economic tightening (big-ticket purchases slowing down). Sports was the least affected (-10.8%), indicating stable demand, possibly tied to seasonal fitness trends.
+
+
 **Region with the highest and lowest sales and Are there any regional differences in product preferences**
 
 Results:
