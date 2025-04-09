@@ -69,6 +69,12 @@ Results:
 
 Insights:
 
+North America dominated with $36,844.34 in sales, ranking #1. Asia followed at 22,455.45, while Europe trailed slightly at 21,268.06.
+North America is the top-performing market, contributing significantly more to revenue than Asia or Europe. Europe, while competitive, had the lowest sales among the three regions.
+
+North America’s reliance on Electronics (95% of its revenue) indicates a tech-centric market. Europe’s preference for Home Appliances suggests a focus on household investments. Asia’s Sports category lead aligns with growing health and wellness trends.
+
+
 - **Top 5 best-selling products by units sold and revenue**
 
 Results:
