@@ -79,8 +79,12 @@ North America’s reliance on Electronics (95% of its revenue) indicates a tech-
 
 Results:
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/71c8f34f6eadd11f43dcd23f9880eca43e358f7d/Online_shop_sales/visuals/unit%20revenue.png)
+
 Insights:
 
+These products generated the highest total revenue, indicating strong profitability. Electronics dominate revenue, with high-ticket items (cameras, TVs, laptops) leading. 5 Products by Units Sold (Highest Volume)
+These products had the highest sales volume, though often at lower price points:
+Hanes ComfortSoft T-Shirt	, The Catcher in the Rye, Yeti Rambler Tumbler, Spalding NBA Street Basketball and Nike Air Force 1. these products are affordable, everyday items (apparel, books, accessories)  and drive volume. No overlap with revenue leaders, highlighting a price vs. volume tradeoff.
 
 ## Visualisation
 
