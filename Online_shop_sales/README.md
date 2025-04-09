@@ -49,7 +49,7 @@ Beauty Products suffered the steepest decline, plummeting from 699.95 January to
 Despite being the highest-revenue category in January (7,999.90),Electronics saw a 61.7%  drop (3,066.96) by August. Home Appliances saw a 23.1% drop, possibly due to economic tightening (big-ticket purchases slowing down). Sports was the least affected (-10.8%), indicating stable demand, possibly tied to seasonal fitness trends.
 
 
-**Region with the highest and lowest sales and Are there any regional differences in product preferences**
+-**Region with the highest and lowest sales and Are there any regional differences in product preferences**
 
 Results:
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/096c914f09f502174171f721b96ad2669c928d22/Online_shop_sales/visuals/Untitled%20-%20Power%20BI%20Desktop%2020_03_2025%206_21_47%20pm.png)
@@ -93,4 +93,32 @@ Hanes ComfortSoft T-Shirt	, The Catcher in the Rye, Yeti Rambler Tumbler, Spaldi
 
 ## Recommendations 
 
+**1. Revenue Optimization Strategies**
 
+Leveraging High-Performing Categories
+The Electronics category dominates, contributing 43.4% of total revenue, followed by Home Appliances (23.1%) and Sports (17.8%). To maximize profitability in these segments:
+
+Electronics: Focus on premium, high-margin products such as cameras, laptops, and smart devices. Bundling accessories (e.g., camera kits with lenses and cases) can increase average order value.
+Home Appliances: Promote energy-efficient and smart home-compatible models. Offering extended warranties or installation services could enhance customer retention.
+Sports: Capitalize on seasonal demand—fitness gear in Q1, outdoor equipment in summer. Partnerships with fitness influencers could amplify reach.
+
+Revitalizing Underperforming Categories
+Beauty Products (3.3%) and Books (2.3%) lag significantly. To improve performance:
+Beauty Products: Introduce subscription models (e.g., monthly beauty boxes) or bundle with best-selling items (e.g., skincare with apparel).
+Books: Explore digital expansions (e.g., e-books) or curated bundles (e.g., "Book + Coffee Mug" sets).
+
+**2. Regional Growth Opportunities**
+
+North America (Highest Revenue: $36,844.34). As the top revenue-generating region, North America’s strong demand for Electronics suggests a tech-savvy consumer base. Offer Black Friday/Cyber Monday deals on high-ticket electronics.Also promote trade-in programs for older devices.
+
+Europe (Strong in Home Appliances: $18,646.16). Europe’s preference for Home Appliances indicates a market inclined toward sustainability. Promote Eco-Friendly Messaging such as Highlight energy-saving features and pair appliances with smart home accessories.
+
+Asia (Sports-Leading: $14,326.52). The region focuses on Sports aligns with growing fitness trends. Try Local Collaborations, like Partnering with regional athletes for endorsements. Also promote sports gear ahead of major events.
+
+**3. Product-Level Adjustments**
+
+High-Revenue, Low-Volume Products (e.g., Canon EOS R5 Camera)
+These items drive profitability but sell in limited quantities. To boost sales, Offer "0% APR for 12 months" to reduce purchase barriers. Include limited-edition accessories to create urgency.
+
+High-Volume, Low-Revenue Products (e.g., Hanes T-Shirts)
+These products attract customers but contribute less to revenue. Use them in "Buy 2, Get 1 Free" promotions to increase foot traffic and also try Pairing them  with higher-margin items (e.g., "T-Shirt + Premium Water Bottle").
