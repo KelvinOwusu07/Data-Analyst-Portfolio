@@ -126,7 +126,7 @@ Prefer Arabica and Liberica coffee types. Favor Light and Medium roasts over Dar
 ## Visualisation
 ![Power BI Dashboard](visuals/Top_UK_Youtubers_Dashboard.gifkelvin)
 
-[CLICK HERE TO INTERACT WITH THE DASHBOARD](https://app.fabric.microsoft.com/view?r=eyJrIjoiMmI2ZWMxODMtMGZhYi00MWU1LWIxZDctNGVlNDYwNmZkMTk0IiwidCI6ImUwMmQxZTM1LWZmYjYtNGY0My1hZWVhLWFjNzlhZTBmM2M1ZSJ9kelvin)
+[CLICK HERE TO INTERACT WITH THE DASHBOARD](https://app.fabric.microsoft.com/view?r=eyJrIjoiMDhjZDI3NjktYWM5Yy00ODVjLTk0NzctMjJkNDQxY2I0ZTMyIiwidCI6ImUwMmQxZTM1LWZmYjYtNGY0My1hZWVhLWFjNzlhZTBmM2M1ZSJ9)
 
 ## Recommendations 
 **1. Loyalty Cardholders**
