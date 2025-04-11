@@ -4,10 +4,15 @@ Hi, I'm Kelvin, a data analyst with a passion for turning raw data into meaningf
 
 ## Projects
 
-1. **[Customer Loyalty Membership & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
-   - Analyzed the relationship between loyalty card membership, geographic sales trends, and product profitability to identify opportunities for increasing customer retention. Created a sales dashboard to analyze performance trend
-   - Tools: Microsoft Excel, Power BI
+1. **[E-Commerce Sales Insight](Online_shop_sales/README.md)** 
+   -	Designed a Power BI dashboard to understand online business sales trend.
+   -	The final dashboard was effective at displaying the sales trend and KPIs for the online business, allowing users to understand the data and make informed decisions. 
+   - Tools: SQL, Power BI, DAX.  
 
+1. **[Customer Loyalty Membership & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
+   - Analyzed the relationship between loyalty card membership, geographic sales trends, and product profitability to identify opportunities for increasing customer retention.
+   - Created a sales dashboard to analyze performance trend
+   - Tools: Microsoft Excel, Power BI, DAX
 
 
 
