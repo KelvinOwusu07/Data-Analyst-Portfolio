@@ -126,8 +126,6 @@ Prefer Arabica and Liberica coffee types. Favor Light and Medium roasts over Dar
 ## Visualisation
 ![Power BI Dashboard](visuals/coffee_sales_dashboard.gif)
 
-https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/d3eba777b201a8fb454f54d5e0e926dc71638c42/Coffee_shop_sales_analysis/visuals/coffee_sales_dashboard.gif
-
 [CLICK HERE TO INTERACT WITH THE DASHBOARD](https://app.fabric.microsoft.com/view?r=eyJrIjoiMDhjZDI3NjktYWM5Yy00ODVjLTk0NzctMjJkNDQxY2I0ZTMyIiwidCI6ImUwMmQxZTM1LWZmYjYtNGY0My1hZWVhLWFjNzlhZTBmM2M1ZSJ9)
 
 ## Recommendations 
