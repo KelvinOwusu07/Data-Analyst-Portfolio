@@ -1,7 +1,7 @@
 # E-Commerce Sales Insight
 
 ## Overview
-The CEO and the sales director want to allocate resources, adjust marketing, and optimize inventory for the up coming year. You’ve been tasked with designing a Power BI sales dashboard to analyze an online store’s performance. The goal is to extract actionable insights from sales data (transactions, products, regions, etc.) to identify trends, strengths, and weaknesses—helping the business increase revenue.
+The CEO and the sales director want to allocate resources, adjust marketing, and optimize inventory for the up coming year. The task is to design a Power BI sales dashboard to analyze an online store’s performance. The goal is to extract actionable insights from sales data (transactions, products, regions, etc.) to identify trends, strengths, and weaknesses—helping the business increase revenue.
 ## Business questions
 1.	What was the company’s Overall Performance in terms of revenue?
 2.	How were the sales Trend  Over Time?
