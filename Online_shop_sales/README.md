@@ -87,7 +87,7 @@ These products had the highest sales volume, though often at lower price points:
 Hanes ComfortSoft T-Shirt	, The Catcher in the Rye, Yeti Rambler Tumbler, Spalding NBA Street Basketball and Nike Air Force 1. these products are affordable, everyday items (apparel, books, accessories)  and drive volume. No overlap with revenue leaders, highlighting a price vs. volume tradeoff.
 
 ## Visualisation
-![Power BI Dashboard](visuals/coffee_sales_dashboard.gif)
+![Power BI Dashboard](visuals/online_sales_dashboard.gif)
 
 [CLICK HERE TO INTERACT WITH THE DASHBOARD](https://app.fabric.microsoft.com/view?r=eyJrIjoiZThiYzAzYmUtODA1Yi00NzM4LTkyNjUtNTZhMWJiMGNjZDBmIiwidCI6ImUwMmQxZTM1LWZmYjYtNGY0My1hZWVhLWFjNzlhZTBmM2M1ZSJ9)
 
