@@ -88,7 +88,7 @@ Hanes ComfortSoft T-Shirt	, The Catcher in the Rye, Yeti Rambler Tumbler, Spaldi
 
 ## Visualisation
 
-![power bi dashboard](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/c73a3ba7cde985e416cef9f38226b87c327f71d9/Online_shop_sales/visuals/online_sales_dashboard.gif)
+![power bi dashboard](visuals/online_sales_dashboard.gif)
 
 [CLICK HERE TO INTERACT WITH THE DASHBOARD](https://app.fabric.microsoft.com/view?r=eyJrIjoiZThiYzAzYmUtODA1Yi00NzM4LTkyNjUtNTZhMWJiMGNjZDBmIiwidCI6ImUwMmQxZTM1LWZmYjYtNGY0My1hZWVhLWFjNzlhZTBmM2M1ZSJ9)
 
