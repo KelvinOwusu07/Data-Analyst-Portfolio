@@ -6,7 +6,11 @@ Hi👋, I'm Kelvin, a data analyst with a passion for turning raw data🗃 into 
 
 ## Projects
 
-1. **[E-Commerce Sales Insight](Online_shop_sales/README.md)** 
+1. **[E-Commerce Sales Insight](Online_shop_sales/README.md)**
+
+![image alt]()
+
+
    -	Designed a Power BI dashboard to understand online business sales trend.
    -	The final dashboard was effective at displaying the sales trend and KPIs for the online business, allowing users to understand the data and make informed decisions. 
    - Tools: SQL, Power BI, DAX.  
