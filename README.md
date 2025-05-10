@@ -15,19 +15,22 @@ Hi👋, I'm Kelvin, a data analyst with a passion for turning raw data🗃 into 
    -	The final dashboard was effective at displaying the sales trend and KPIs for the online business, allowing users to understand the data and make informed decisions. 
    - Tools: SQL, Power BI, DAX.  
 
-1. **[Customer Loyalty Membership & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
+2. **[Customer Loyalty Membership & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
+
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/acf764aa4b752ba6f781fbc55e6e39f5e95f8aff/Screenshot_20250510_140321_Samsung%20Internet.jpg)
+
    - Analyzed the relationship between loyalty card membership, geographic sales trends, and product profitability to identify opportunities for increasing customer retention.
    - Created a sales dashboard to analyze performance trend
    - Tools: Microsoft Excel, Power BI, DAX
 
 
 
-2. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**  
+3. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**  
    - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates to help the marketing head make data-driven decisions about which YouTubers to collaborate with for future campaigns.
    - Tools: SQL, Power BI, DAX.  
 
 
- 3. **More projects coming soon** 
+ 4. **More projects coming soon** 
     - Stay tuned for additional projects showcasing my data analysis skills.
      
 
