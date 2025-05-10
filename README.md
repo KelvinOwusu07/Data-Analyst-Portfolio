@@ -2,7 +2,7 @@
 
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/d9eb71bb3ebcf230b54a1a58a02b0356ab583f63/Data%20Analysis.png)
 
-Hi👋, I'm Kelvin, a data analyst with a passion for turning raw data🗃 into meaningful insights📊. My journey into data analytics started with a background in SPSS during my final year project. Over time, I've developed strong skills in SQL, Microsoft Excel, Power BI, and data storytelling📽 to help make data-driven decisions📋. Through my portfolio📑, I showcase projects that highlight my ability to clean, analyze, and visualize data effectively. I'm always eager to learn, solve comp📈lex problems, .
+Hi👋, I'm Kelvin, a data analyst with a passion for turning raw data🗃 into meaningful insights📊. My journey into data analytics started with a background in SPSS during my final year project. Over time, I've developed strong skills in SQL, Microsoft Excel, Power BI, and data storytelling📽 to help make data-driven decisions📋. Through my portfolio📑, I showcase projects that highlight my ability to clean, analyze, and visualize data effectively. I'm always eager to learn, solve complex problems📈.
 
 ## Projects
 
