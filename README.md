@@ -25,12 +25,15 @@ Hi👋, I'm Kelvin, a data analyst with a passion for turning raw data🗃 into 
 
 
 
-3. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**  
+3. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**
+
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/cf6a19856fd33d7217cbb824556ff1ae4b37ddbf/Screenshot_20250510_141011_Samsung%20Internet.jpg)
+
    - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates to help the marketing head make data-driven decisions about which YouTubers to collaborate with for future campaigns.
    - Tools: SQL, Power BI, DAX.  
 
 
- 4. **More projects coming soon** 
+ 5. **More projects coming soon** 
     - Stay tuned for additional projects showcasing my data analysis skills.
      
 
