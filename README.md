@@ -8,7 +8,7 @@ Hi👋, I'm Kelvin, a data analyst with a passion for turning raw data🗃 into 
 
 1. **[E-Commerce Sales Insight](Online_shop_sales/README.md)**
 
-![image alt]()
+![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/7c26f9bfc084ff93dd89bf220c12e64fbffcd357/Screenshot_20250510_135144_Samsung%20Internet.jpg)
 
 
    -	Designed a Power BI dashboard to understand online business sales trend.
