@@ -6,35 +6,42 @@ Hi👋, I'm Kelvin, a data analyst with a passion for turning raw data🗃 into 
 
 ## Projects
 
-1. **[E-Commerce Sales Insight](Online_shop_sales/README.md)**
+### 1. E-Commerce Sales Insight
 
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/7c26f9bfc084ff93dd89bf220c12e64fbffcd357/Screenshot_20250510_135144_Samsung%20Internet.jpg)
 
-
+  ***[View Full Analysis](Online_shop_sales/README.md)***
+ 
    -	Designed a Power BI dashboard to understand online business sales trend.
    -	The final dashboard was effective at displaying the sales trend and KPIs for the online business, allowing users to understand the data and make informed decisions. 
    - Tools: SQL, Power BI, DAX.  
 
-2. **[Customer Loyalty Membership & Geographic Sales Analysis](Coffee_shop_sales_analysis/README.md)** 
+
+### 2. Customer Loyalty Membership & Geographic Sales Analysis
 
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/acf764aa4b752ba6f781fbc55e6e39f5e95f8aff/Screenshot_20250510_140321_Samsung%20Internet.jpg)
 
+**[View Full Analysis](Coffee_shop_sales_analysis/README.md)** 
+   
    - Analyzed the relationship between loyalty card membership, geographic sales trends, and product profitability to identify opportunities for increasing customer retention.
    - Created a sales dashboard to analyze performance trend
    - Tools: Microsoft Excel, Power BI, DAX
 
 
 
-3. **[Analysis of UK YouTube Channels for Marketing Campaign Optimization](UK-YouTube-Channels-Analysis/README.md)**
+### 3. Analysis of UK YouTube Channels for Marketing Campaign Optimization
 
 ![image alt](https://github.com/KelvinOwusu07/Data-Analyst-Portfolio/blob/cf6a19856fd33d7217cbb824556ff1ae4b37ddbf/Screenshot_20250510_141011_Samsung%20Internet.jpg)
 
+**[View full Analysis](UK-YouTube-Channels-Analysis/README.md)**
+   
    - Identified top-performing UK YouTube channels based on subscribers, views, and engagement rates to help the marketing head make data-driven decisions about which YouTubers to collaborate with for future campaigns.
    - Tools: SQL, Power BI, DAX.  
 
 
- 5. **More projects coming soon** 
-    - Stay tuned for additional projects showcasing my data analysis skills.
+### 5. **More projects coming soon** 
+ 
+   - Stay tuned for additional projects showcasing my data analysis skills.
      
 
 ## Skills
